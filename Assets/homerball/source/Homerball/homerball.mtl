@@ -1,0 +1,43 @@
+# Asura Explorer export — Strippedhomerball
+
+newmtl homerball_body
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+d 1.0
+illum 1
+map_Kd homerball_body.png
+
+newmtl homerball_HomerBall_Head
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+d 1.0
+illum 1
+map_Kd homerball_HomerBall_Head.png
+
+newmtl homerball_HomerBall_ArmR
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+d 1.0
+illum 1
+map_Kd homerball_HomerBall_ArmR.png
+
+newmtl homerball_HomerBall_ArmL
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+d 1.0
+illum 1
+map_Kd homerball_HomerBall_ArmL.png
+
+newmtl homerball_HomerBall_ShoeL
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+d 1.0
+illum 1
+map_Kd homerball_HomerBall_ShoeL.png
+
+newmtl homerball_HomerBall_ShoeR
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+d 1.0
+illum 1
+map_Kd homerball_HomerBall_ShoeR.png
